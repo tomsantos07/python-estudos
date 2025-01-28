@@ -13,3 +13,5 @@ A aula 5 explica funções diversas
 As aulas 6 e 7 são exercícios que abordam tudo visto anteriormente
 
 As aulas 8 e 9 são sobre condicionais if
+
+Aula 10 inicia as estruturas de repetição
