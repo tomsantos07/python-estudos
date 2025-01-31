@@ -17,3 +17,5 @@ As aulas 8 e 9 são sobre condicionais if
 Aula 10 inicia as estruturas de repetição
 
 Aula 11 trata sobre for in e a funcao range()
+
+Aula 12: estruturas de repeitção com while
